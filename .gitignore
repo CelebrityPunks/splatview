@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# SplatView processing
+processing/jobs/
+public/splats/*.ply
+public/splats/*.splat
+data/
